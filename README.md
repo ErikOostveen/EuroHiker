@@ -4,7 +4,7 @@ The EuroHiker module is designed to provide a programmable platform capable of e
 
 <img src="https://github.com/ErikOostveen/EuroHiker/assets/40121318/607966f5-80ed-4a59-8474-a14263640ffa" width="600" />
 
-The EuroHiker module is based on the popular (Linux) Unihiker single board computer by DFRobot.
+The EuroHiker module is based on the popular (Linux) Unihiker single board computer by [DFRobot](https://www.dfrobot.com/product-2691.html)
 
 The UniHiker board comes standard with WiFi/Bluetooth, Light Sensor, Microphone, Accelerometer sensor, Gyroscope sensor, Buzzer, MicroSD card slot and Various I/O connectivity (PWM, ADC, I2C, UART, USB, SPI)
 
