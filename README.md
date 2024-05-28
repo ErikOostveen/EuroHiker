@@ -2,8 +2,7 @@
 
 The EuroHiker module is designed to provide a programmable platform capable of executing various functions, fitting seamlessly into the world of EuroRack where modules are typically fine-tuned to excel in their designated tasks.
 
-<img src="https://github.com/ErikOostveen/EuroHiker/assets/40121318/607966f5-80ed-4a59-8474-a14263640ffa" width="600" />
-<img src="https://github.com/ErikOostveen/EuroHiker/assets/40121318/d4a6e652-3062-4d54-b50a-098774c87660)" width="600" />
+<img src="https://github.com/ErikOostveen/EuroHiker/assets/40121318/d4a6e652-3062-4d54-b50a-098774c87660)" width="625" />
 
 The EuroHiker module is based on the popular (Linux) Unihiker single board computer by [DFRobot](https://www.dfrobot.com/product-2691.html)
 
