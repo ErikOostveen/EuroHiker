@@ -22,3 +22,19 @@ The EuroHiker module is designed to provide a programmable platform capable of e
 The EuroHiker module, on the other hand, empowers you to navigate through folders containing Python programs, each leveraging the module's extensive feature set.
 
 The idea is to have the flexibility to explore numerous concepts, allowing you to test them before deciding whether to further develop them using another development board or to retain them with
+
+# Let's Assemble! - EuroHiker PCB 1 of 2
+
+The first part, of two, in assembling the EuroHiker module, is to gather all required components. I had the PCB, which houses the front panel's components, partially populated becasue I had some of the parts in stock. See overview below:
+
+![pcb_1_overview](https://github.com/ErikOostveen/EuroHiker/assets/40121318/3e42fe15-b6ab-46be-93e7-86d1de6bcb39)
+
+### A
+Partially populated PCB
+
+
+
+
+
+
+
