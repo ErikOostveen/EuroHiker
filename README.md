@@ -34,10 +34,15 @@ Partially populated PCB.
 What follows are the suggested steps to building the EuroHiker module. I have also included links to some of the components - these are suggestions also. I often find the right components on eBay.   
 
 ### B
-Start with the Edge Connector (BBC micro:bit). Link: https://kitronik.co.uk/products/4148-edge-connector-header-for-bbc-microbit
+Start with the Edge Connector (BBC micro:bit).<br>
+Link: https://kitronik.co.uk/products/4148-edge-connector-header-for-bbc-microbit<br>
 ![big_connector2](https://github.com/ErikOostveen/EuroHiker/assets/40121318/a196fd32-167f-4dd2-93af-0fca1281fff7)
 
-
+### C
+Solder the 2 Right-Angled 2Pin Sockets.<br> 
+Link:https://www.lcsc.com/product-detail/Female-Headers_CONNFLY-Elec-DS1024-1x2R2_C7509534.htmld<br>
+These sockes are not mandatory; you can solder wires directly from this PCB to the USB breakout boards (mentioned further down in the steps).<br>
+![sockets](https://github.com/ErikOostveen/EuroHiker/assets/40121318/1c3608f7-a3e0-456e-986a-cee843d94a3a)
 
 
 
