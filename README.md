@@ -30,7 +30,13 @@ The first part, of two, in assembling the EuroHiker module, is to gather all req
 ![pcb_1_overview](https://github.com/ErikOostveen/EuroHiker/assets/40121318/3e42fe15-b6ab-46be-93e7-86d1de6bcb39)
 
 ### A
-Partially populated PCB
+Partially populated PCB. 
+What follows are the suggested steps to building the EuroHiker module. I have also included links to some of the components - these are suggestions also. I often find the right components on eBay.   
+
+### B
+Start with the Edge Connector (BBC micro:bit). Link: https://kitronik.co.uk/products/4148-edge-connector-header-for-bbc-microbit
+![big_connector2](https://github.com/ErikOostveen/EuroHiker/assets/40121318/a196fd32-167f-4dd2-93af-0fca1281fff7)
+
 
 
 
