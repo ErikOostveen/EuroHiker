@@ -31,7 +31,7 @@ The first part, of two, in assembling the EuroHiker module, is to gather all req
 
 ### A
 Partially populated PCB. 
-What follows are the suggested steps to building the EuroHiker module. I have also included links to some of the components - these are suggestions also. I often find the right components on eBay.   
+What follows are the suggested steps to building the EuroHiker module. I have also included links to some of the components - these are suggestions also. Sometimes links come back "blocked"; in that case just copy/paste the link into your browser.   
 
 ### B
 Start with the Edge Connector (BBC micro:bit).<br>
@@ -43,6 +43,12 @@ Solder the 2 Right-Angled 2Pin Sockets.<br>
 Link:https://www.lcsc.com/product-detail/Female-Headers_CONNFLY-Elec-DS1024-1x2R2_C7509534.htmld<br>
 These sockes are not mandatory; you can solder wires directly from this PCB to the USB breakout boards (mentioned further down in the steps).<br>
 ![sockets](https://github.com/ErikOostveen/EuroHiker/assets/40121318/1c3608f7-a3e0-456e-986a-cee843d94a3a)
+
+### D
+Solder the 6 3.5mm jack sockets. Keep in mind; the 2 MIDI sockets are STEREO sockets (Green on image) the remaining 4 are MONO (Black on the image).
+By far the best place to get these jack sockets is THONK.<br>
+Link: https://www.thonk.co.uk/shop/3-5mm-jacks/<br>
+![JACKS](https://github.com/ErikOostveen/EuroHiker/assets/40121318/659e82f4-a1bd-4916-b729-4ecb5da68780)
 
 
 
