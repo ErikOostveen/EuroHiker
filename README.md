@@ -69,6 +69,20 @@ Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00221_C268
 Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00088_C2685085.html<br>
 ![Sockets_Rear_pcb_1](https://github.com/ErikOostveen/EuroHiker/assets/40121318/1e4bb87e-2a64-4515-8cf3-2d62b1d0d11e)
 
+### H
+We need to break-out the UniHiker's USB-A and USB-C ports with two short "USB patches". The USB-C port (the smallest connecter at the top of the UniHiker board) will be used to power the UniHiker. The USB-A port connects to the MIDI interface on the 2nd PCB.<br>
+* USB-C to PCB:<br>
+1 x USB-C socket breakout<br>
+Link: https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/5180/15287551?s=N4IgTCBcDaIIwFYwA4C0C7IAyoHIBEQBdAXyA<br>
+1 x 2Pin 2.5mm pitch<br>
+Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html<br>
+* USB-A to PCB:<br>
+1 x USB-A socket breakout<br>
+Link: https://cpc.farnell.com/clever-little-box/cie-yy27/usb-2-0-a-plug-breakout-board/dp/CN22559<br>
+1 x 2pin 2.5mm pitch<br>
+Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html<br>
+![two_usb_patches](https://github.com/ErikOostveen/EuroHiker/assets/40121318/eeba7c67-7dad-46f1-87cd-5cd7c5ac348d)
+
 
 
 
