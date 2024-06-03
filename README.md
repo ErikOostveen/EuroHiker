@@ -58,7 +58,7 @@ Link: https://www.digikey.co.uk/en/products/detail/e-switch/100SP1T1B4M2QE/37882
 Link: https://www.lcsc.com/product-detail/Tactile-Switches_Diptronics-DTS-66K-V_C141877.html
 Then "F":<br>
 Link: 1 x Rotary RGB Encoder<br>
-https://uk.robotshop.com/products/rotary-rgb-encoder-illuminated
+https://uk.robotshop.com/products/rotary-rgb-encoder-illuminated<br>
 ![toggle_sw_buttons_encoder](https://github.com/ErikOostveen/EuroHiker/assets/40121318/ffab539d-409b-4091-8817-ebc3274af27b)
 
 
