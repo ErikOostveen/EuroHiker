@@ -76,11 +76,13 @@ We need to break-out the UniHiker's USB-A and USB-C ports with two short "USB pa
 Link: https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/5180/15287551?s=N4IgTCBcDaIIwFYwA4C0C7IAyoHIBEQBdAXyA<br>
 1 x 2Pin 2.5mm pitch<br>
 Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html<br>
+Wire Colours: Red = + (5V), Blue = GND (Ground)<br>
 * USB-A to PCB:<br>
 1 x USB-A socket breakout<br>
 Link: https://cpc.farnell.com/clever-little-box/cie-yy27/usb-2-0-a-plug-breakout-board/dp/CN22559<br>
 1 x 2pin 2.5mm pitch<br>
 Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html<br>
+Wire Colours: Green = Data Negative (D-), White = Date Positive (D+)<br>
 ![two_usb_patches](https://github.com/ErikOostveen/EuroHiker/assets/40121318/eeba7c67-7dad-46f1-87cd-5cd7c5ac348d)
 
 
