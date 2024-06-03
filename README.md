@@ -50,6 +50,23 @@ By far the best place to get these jack sockets is THONK.<br>
 Link: https://www.thonk.co.uk/shop/3-5mm-jacks/<br>
 ![JACKS](https://github.com/ErikOostveen/EuroHiker/assets/40121318/659e82f4-a1bd-4916-b729-4ecb5da68780)
 
+### E & F
+The tallest components go last (we'll get to the LEDs later); "E" first:<br>
+1 x Miniature Toggle (the Power) Switch<br>
+Link: https://www.digikey.co.uk/en/products/detail/e-switch/100SP1T1B4M2QE/378824?s=N4IgTCBcDaIIwAYEGUAKcAqcBCAWAsmAIoCiIAugL5A<br>
+2 x Push Buttons (Left/Right) (6.2x6.2x13mm)<br>
+Link: https://www.lcsc.com/product-detail/Tactile-Switches_Diptronics-DTS-66K-V_C141877.html
+Then "F":<br>
+Link: 1 x Rotary RGB Encoder<br>
+https://uk.robotshop.com/products/rotary-rgb-encoder-illuminated
+![toggle_sw_buttons_encoder](https://github.com/ErikOostveen/EuroHiker/assets/40121318/ffab539d-409b-4091-8817-ebc3274af27b)
+
+
+
+
+
+
+
 
 
 
