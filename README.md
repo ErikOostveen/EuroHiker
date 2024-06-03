@@ -57,12 +57,17 @@ Link: https://www.digikey.co.uk/en/products/detail/e-switch/100SP1T1B4M2QE/37882
 2 x Push Buttons (Left/Right) (6.2x6.2x13mm)<br>
 Link: https://www.lcsc.com/product-detail/Tactile-Switches_Diptronics-DTS-66K-V_C141877.html
 Then "F":<br>
-Link: 1 x Rotary RGB Encoder<br>
-https://uk.robotshop.com/products/rotary-rgb-encoder-illuminated<br>
+1 x Rotary RGB Encoder<br>
+Link: https://uk.robotshop.com/products/rotary-rgb-encoder-illuminated<br>
 ![toggle_sw_buttons_encoder](https://github.com/ErikOostveen/EuroHiker/assets/40121318/ffab539d-409b-4091-8817-ebc3274af27b)
 
-
-
+### G
+Time the flip the board around and solder the 3 sockets for connectivity to the 2nd board.<br>
+1 x 4PIN Socket (i.e. 2 x 2Rows)<br>
+Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00221_C2685206.html<br>
+2 x 20PIN Sockets (i.e. 2 x 10Rows)<br>
+Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00088_C2685085.html<br>
+![Sockets_Rear_pcb_1](https://github.com/ErikOostveen/EuroHiker/assets/40121318/1e4bb87e-2a64-4515-8cf3-2d62b1d0d11e)
 
 
 
