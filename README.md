@@ -29,28 +29,28 @@ The first part, of two, in assembling the EuroHiker module, is to gather all req
 
 ![pcb_1_overview](https://github.com/ErikOostveen/EuroHiker/assets/40121318/3e42fe15-b6ab-46be-93e7-86d1de6bcb39)
 
-### A
+### Step A
 Partially populated PCB. 
 What follows are the suggested steps to building the EuroHiker module. I have also included links to some of the components - these are suggestions also. Sometimes links come back "blocked"; in that case just copy/paste the link into your browser.   
 
-### B
+### Step B
 Start with the Edge Connector (BBC micro:bit).<br>
 Link: https://kitronik.co.uk/products/4148-edge-connector-header-for-bbc-microbit<br>
 ![big_connector2](https://github.com/ErikOostveen/EuroHiker/assets/40121318/a196fd32-167f-4dd2-93af-0fca1281fff7)
 
-### C
+### Step C
 Solder the 2 Right-Angled 2Pin Sockets.<br> 
 Link:https://www.lcsc.com/product-detail/Female-Headers_CONNFLY-Elec-DS1024-1x2R2_C7509534.htmld<br>
 These sockes are not mandatory; you can solder wires directly from this PCB to the USB breakout boards (mentioned further down in the steps).<br>
 ![sockets](https://github.com/ErikOostveen/EuroHiker/assets/40121318/1c3608f7-a3e0-456e-986a-cee843d94a3a)
 
-### D
+### Step D
 Solder the 6 3.5mm jack sockets. Keep in mind; the 2 MIDI sockets are STEREO sockets (Green on image) the remaining 4 are MONO (Black on the image).
 By far the best place to get these jack sockets is THONK.<br>
 Link: https://www.thonk.co.uk/shop/3-5mm-jacks/<br>
 ![JACKS](https://github.com/ErikOostveen/EuroHiker/assets/40121318/659e82f4-a1bd-4916-b729-4ecb5da68780)
 
-### E & F
+### Steps E & F
 The tallest components go last (we'll get to the LEDs later); "E" first:<br>
 1 x Miniature Toggle (the Power) Switch<br>
 Link: https://www.digikey.co.uk/en/products/detail/e-switch/100SP1T1B4M2QE/378824?s=N4IgTCBcDaIIwAYEGUAKcAqcBCAWAsmAIoCiIAugL5A<br>
@@ -61,7 +61,7 @@ Then "F":<br>
 Link: https://uk.robotshop.com/products/rotary-rgb-encoder-illuminated<br>
 ![toggle_sw_buttons_encoder](https://github.com/ErikOostveen/EuroHiker/assets/40121318/ffab539d-409b-4091-8817-ebc3274af27b)
 
-### G
+### Step G
 Time the flip the board around and solder the 3 sockets for connectivity to the 2nd board.<br>
 1 x 4PIN Socket (i.e. 2 x 2Rows)<br>
 Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00221_C2685206.html<br>
@@ -69,7 +69,7 @@ Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00221_C268
 Link: https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00088_C2685085.html<br>
 ![Sockets_Rear_pcb_1](https://github.com/ErikOostveen/EuroHiker/assets/40121318/1e4bb87e-2a64-4515-8cf3-2d62b1d0d11e)
 
-### H
+### Step H
 We need to break-out the UniHiker's USB-A and USB-C ports with two short "USB patches". The USB-C port (the smallest connecter at the top of the UniHiker board) will be used to power the UniHiker. The USB-A port connects to the MIDI interface on the 2nd PCB.<br>
 * USB-C to PCB:<br>
 1 x USB-C socket breakout<br>
@@ -86,9 +86,16 @@ Wire Colours: Green = Data Negative (D-), White = Date Positive (D+)<br><br>
 The PCB's image on the right illustrates how these "USB patches" will connect into the UniHiker (later)<br>
 ![two_usb_patches](https://github.com/ErikOostveen/EuroHiker/assets/40121318/eeba7c67-7dad-46f1-87cd-5cd7c5ac348d)
 
-
-
-
+### Step I
+Ok, time to put the PCB aside and focus on the UniHiker board itself!<br>
+I1: connect 3 white wires/patches* to the UniHiker: P21, P22 & P23 (there's text on the UniHiker board to identify these ports). (*) these come with the UniHiker board<br>
+I2: Power-up the UniHiker board by connecting the included USB cable to your computer. Let it boot - and Select "English" from the menu.<br> 
+I3: After a reboot, long-press the screen (or home button) to enter the menu.<br>
+I4: Launch a browser on your computer and enter 10.1.2.3 as the URL. Go to "Network Settings".<br>
+I5: Use the scan/drop-down menu to find your home's WiFi network and enter its password.<br>
+I5: Use the scan/drop-down menu to find your home's WiFi network and enter its password.<br>
+I6: Once connected, make a note of the IP address (192.168.0.246 in this example).<br>
+![boot](https://github.com/ErikOostveen/EuroHiker/assets/40121318/07e6a15c-0023-4dfb-96d1-7cc66f642eb9)
 
 
 
