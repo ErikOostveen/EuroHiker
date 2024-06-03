@@ -14,7 +14,7 @@ On the front:					Suggested Source (a lot can be found on eBay also):
 1 x UniHiker DEV board				https://www.dfrobot.com/product-2691.html				
 (The UniHiker board comes with a USB-C cable and a couple of short "patch" cables. You will need the patches for building the module)
 
-In addition, you will need:			Suggested Source (a lot can be found on eBay also):
+In addition, you will need: (suggested sources - a lot can be found on eBay also):
 
  To build the very short power cable running from the UniHiker's USB-C to the PCB
  1 x USB-C socket breakout 			https://www.digikey.co.uk/en/products/detai l/adafruit-industries-llc/5180/15287551?s=N4IgTCBcDaIIwFYwA4C0C7IAyoHIBEQBdAXyA
