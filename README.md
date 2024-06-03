@@ -82,7 +82,8 @@ Wire Colours: Red = + (5V), Blue = GND (Ground)<br>
 Link: https://cpc.farnell.com/clever-little-box/cie-yy27/usb-2-0-a-plug-breakout-board/dp/CN22559<br>
 1 x 2pin 2.5mm pitch<br>
 Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html<br>
-Wire Colours: Green = Data Negative (D-), White = Date Positive (D+)<br>
+Wire Colours: Green = Data Negative (D-), White = Date Positive (D+)<br><br>
+The PCB's image on the right illustrates how these "USB patches" will connect into the UniHiker (later)<br>
 ![two_usb_patches](https://github.com/ErikOostveen/EuroHiker/assets/40121318/eeba7c67-7dad-46f1-87cd-5cd7c5ac348d)
 
 
