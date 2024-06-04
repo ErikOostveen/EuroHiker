@@ -106,7 +106,7 @@ I10: Secure the UniHiker to the PCB with the M3 screw.<br>
 ### Steps J, K & L
 J1: Insert all 7 LEDs, but DON'T solder them yet! Push them in as far as possible. We"ll get back to these later.<br>
 K1: Put the washers in place. I use 2 for each of the 3.5mm jacks; this way, the front panel sits comfortably over the top of the UniHiker's screen.<br>
-Have a look at these colouful Jack nuts for inspiration: https://www.thonk.co.uk/shop/bananuts/
+Have a look at these colouful Jack nuts for inspiration: https://www.thonk.co.uk/shop/bananuts/<br>
 K2: Fit the front panel.<br>
 L1: Place & Fasten all nuts. Do not "over tighten" the nuts or you'll break the screen (potentially). Fasten the Encoder's knob.<br> 
 J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush with the front panel. Now you can solder them.<br> 
