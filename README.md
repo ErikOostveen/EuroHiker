@@ -107,11 +107,13 @@ I10: Secure the UniHiker to the PCB with the M3 screw.<br>
 J1: Insert all 7 LEDs, but DON'T solder them yet! Push them in as far as possible. We"ll get back to these later.<br>
 K1: Put the washers in place. I use 2 for each of the 3.5mm jacks; this way, the front panel sits comfortably over the top of the UniHiker's screen.<br>
 K2: Fit the front panel.<br>
-L1: Place & Fasten all nuts. Do not "over tighten" the nuts or you'll break the screen (potentially)<br> 
-J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush with the front panel.<br> 
+L1: Place & Fasten all nuts. Do not "over tighten" the nuts or you'll break the screen (potentially). Fasten the Encoder's knob.<br> 
+J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush with the front panel. Now you can solder them.<br> 
 ![steps_j_k_l](https://github.com/ErikOostveen/EuroHiker/assets/40121318/b6655be5-4528-49a5-a647-dd798c6526ae)
 
-
+### Completing the first part
+Finally, connect both USB patches. Make sure the carefully tuck the wires away.<br>
+![connect_usbs](https://github.com/ErikOostveen/EuroHiker/assets/40121318/2e61942f-8241-4a64-8679-40bd48bb93db)
 
 
 
