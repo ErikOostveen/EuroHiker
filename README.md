@@ -125,7 +125,7 @@ Link: https://www.lcsc.com/product-detail/IDC-Connectors_BOOMELE-Boom-Precision-
 M3: 1 x 26pin (2x13pins) Male Header<br>
 Link: https://www.lcsc.com/product-detail/IDC-Connectors_Megastar-ZX-IDC2-54-2-13PZZ_C7501247.html<br>
 M4: 3 strips of 14pins each at 2.5mm pitch<br>
-Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html
+Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html<br>
 M5: 14 x 2.54mm Jumper (female)<br>
 Link: https://www.mouser.co.uk/ProductDetail/Harwin/M7582-05?qs=ulE8k0yEMYZPqg5dozLsXw%3D%3D<br><br>
 ![2nd_pcb](https://github.com/ErikOostveen/EuroHiker/assets/40121318/be471286-f7ca-466c-9aff-f68617fdec46)
