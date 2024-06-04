@@ -118,6 +118,7 @@ Finally, connect both USB patches. Make sure to, carefully, tuck the wires away.
 Cool!, you completed the first part to building the EuroHiker module!
 
 # Let's Assemble! - Part II - EuroHiker PCB 2 of 2
+### Step M
 The 2nd PCB is super easy to build. Lets summarise the components (see image further below)<br>
 M1: Partially populated PCB. In fact, this is simply a one-side-only populated PCB; it's quite a bit cheaper this way than having both sides populated.<br> 
 M2: 1 x 16pin (2x8pins) Male Header<br>
