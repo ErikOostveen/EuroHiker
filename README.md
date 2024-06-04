@@ -112,7 +112,7 @@ J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush 
 ![steps_j_k_l](https://github.com/ErikOostveen/EuroHiker/assets/40121318/b6655be5-4528-49a5-a647-dd798c6526ae)
 
 ### Completing the first part
-Finally, connect both USB patches. Make sure the carefully tuck the wires away.<br>
+Finally, connect both USB patches. Make sure to, carefully, tuck the wires away.<br>
 ![connect_usbs](https://github.com/ErikOostveen/EuroHiker/assets/40121318/2e61942f-8241-4a64-8679-40bd48bb93db)
 
 
