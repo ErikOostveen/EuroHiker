@@ -97,15 +97,20 @@ I5: Use the scan/drop-down menu to find your home's WiFi network and enter its p
 I6: Once connected, make a note of the IP address (192.168.0.246 in this example).<br>
 ![boot](https://github.com/ErikOostveen/EuroHiker/assets/40121318/07e6a15c-0023-4dfb-96d1-7cc66f642eb9)
 
-I7: Remove the protective film from the UniHiker's top mounting nut and have a short nylon M3 screw at hand.<br>
-I8: Feed the three white wires through the PCB's cutouts.<br>
+I7: Remove the protective film from the UniHiker's top mounting hole and have a short nylon M3 screw at hand.<br>
+I8: Feed the 3 white wires through the PCB's cutouts.<br>
 I9: Now, carefully insert the UniHiker into the Edge Connector - carefully guiding the wires!<br>
 I10: Secure the UniHiker to the PCB with the M3 screw.<br>
 ![UniHiker_on_PCB](https://github.com/ErikOostveen/EuroHiker/assets/40121318/a7ee253b-5628-488c-ad0f-91344c755c2f)
 
-### Step J
-J1: Insert all 7 LEDs, but DON'T solder them yet! Push them in as far as possible.<br>
-J2: Put the washers in place. I use 2 for every 3.5mm jack creating approx 0.9mm distance front the front panel.
+### Steps J, K & L
+J1: Insert all 7 LEDs, but DON'T solder them yet! Push them in as far as possible. We"ll get back to these later.<br>
+K1: Put the washers in place. I use 2 for each of the 3.5mm jacks; this way, the front panel sits comfortably over the top of the UniHiker's screen.<br>
+K2: Fit the front panel.<br>
+L1: Place & Fasten all nuts. Do not "over tighten" the nuts or you'll break the screen (potentially)<br> 
+J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush with the front panel.<br> 
+![steps_j_k_l](https://github.com/ErikOostveen/EuroHiker/assets/40121318/b6655be5-4528-49a5-a647-dd798c6526ae)
+
 
 
 
