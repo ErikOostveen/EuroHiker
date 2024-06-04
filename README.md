@@ -103,6 +103,9 @@ I9: Now, carefully insert the UniHiker into the Edge Connector - carefully guidi
 I10: Secure the UniHiker to the PCB with the M3 screw.<br>
 ![UniHiker_on_PCB](https://github.com/ErikOostveen/EuroHiker/assets/40121318/a7ee253b-5628-488c-ad0f-91344c755c2f)
 
+### Step J
+J1: Insert all 7 LEDs, but DON'T solder them yet! Push them in as far as possible.<br>
+J2: Put the washers in place. I use 2 for every 3.5mm jack creating approx 0.9mm distance front the front panel.
 
 
 
