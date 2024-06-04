@@ -108,6 +108,7 @@ J1: Insert all 7 LEDs, but DON'T solder them yet! Push them in as far as possibl
 K1: Put the washers in place. I use 2 for each of the 3.5mm jacks; this way, the front panel sits comfortably over the top of the UniHiker's screen.<br>
 Have a look at these colouful Jack nuts for inspiration: https://www.thonk.co.uk/shop/bananuts/<br>
 K2: Fit the front panel.<br>
+My UK frontpanel supplier of choice is: https://www.meface.co.uk/  
 L1: Place & Fasten all nuts. Do not "over tighten" the nuts or you'll break the screen (potentially). Fasten the Encoder's knob.<br> 
 J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush with the front panel. Now you can solder them.<br> 
 ![steps_j_k_l](https://github.com/ErikOostveen/EuroHiker/assets/40121318/b6655be5-4528-49a5-a647-dd798c6526ae)
