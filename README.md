@@ -118,6 +118,18 @@ Finally, connect both USB patches. Make sure to, carefully, tuck the wires away.
 Cool!, you completed the first part to building the EuroHiker module!
 
 # Let's Assemble! - Part II - EuroHiker PCB 2 of 2
+The 2nd PCB is super easy to build. Lets summarise the components (see image further below)<br>
+M1: Partially populated PCB. In fact, this is simply a one-side-only populated PCB; it's quite a bit cheaper this way than having both sides populated.<br> 
+M2: 1 x 16pin (2x8pins) Male Header<br>
+Link: https://www.lcsc.com/product-detail/IDC-Connectors_BOOMELE-Boom-Precision-Elec-2-54-2-8P_C3406.html<br>
+M3: 1 x 26pin (2x13pins) Male Header<br>
+Link: https://www.lcsc.com/product-detail/IDC-Connectors_Megastar-ZX-IDC2-54-2-13PZZ_C7501247.html<br>
+M4: 3 strips of 14pins each at 2.5mm pitch<br>
+Link: https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html
+M5: 14 x 2.54mm Jumper (female)<br>
+Link: https://www.mouser.co.uk/ProductDetail/Harwin/M7582-05?qs=ulE8k0yEMYZPqg5dozLsXw%3D%3D<br>
+![2nd_pcb](https://github.com/ErikOostveen/EuroHiker/assets/40121318/be471286-f7ca-466c-9aff-f68617fdec46)
+
 
 
 
