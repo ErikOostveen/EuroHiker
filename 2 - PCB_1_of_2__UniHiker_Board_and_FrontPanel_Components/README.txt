@@ -24,7 +24,6 @@ In addition, you will need: (suggested sources - a lot can be found on eBay also
  1 x USB-A socket breakout			https://cpc.farnell.com/clever-little-box/cie-yy27/usb-2-0-a-plug-breakout-board/dp/CN22559
  1 x 2pin 2.5mm pitch 				https://www.lcsc.com/product-detail/Pin-Headers_chxunda-XDZ254-1-14-Z-2-5-G1_C18905855.html
 
-
 On the Rear:					Suggested Source (a lot can be found on eBay also):
 2 x 20PIN Sockets (i.e. 2 x 10Rows)		https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00088_C2685085.html
 1 x 4PIN Socket (i.e. 2 x 2Rows)		https://www.lcsc.com/product-detail/Female-Headers_Liansheng-FH-00221_C2685206.html
