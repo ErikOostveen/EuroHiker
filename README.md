@@ -151,7 +151,7 @@ Connect the EuroRack power cable from your EuroRack power supply to the EuroHike
 Mount the EuroHiker module into your EuroRack setup or desktop case and throw the EuroHiker's toggle switch:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zgOlJGRqT2I" target="_blank"><img src="http://img.youtube.com/vi/zgOlJGRqT2I/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="400" border="1" /></a>
 
 
 
