@@ -144,8 +144,11 @@ Carefully push the 3 headers (the pins) into their opposite sockets. Make sure n
 ![pairing_careful](https://github.com/ErikOostveen/EuroHiker/assets/40121318/355feb8c-9664-4e2e-87d9-b8bf39be21ba)
 
 ### Step Q
-It's time to power up the module. Connect the EuroRack power cable from your EuroRack power supply to the EuroHiker module:<br><br>
+It's time to power up the module. Make sure the EuroHiker's toggle switch is set to the OFF position (facing away from the Power LED).<br><br>
+Connect the EuroRack power cable from your EuroRack power supply to the EuroHiker module:<br><br>
 ![connect_power_cable](https://github.com/ErikOostveen/EuroHiker/assets/40121318/bb6dccaf-81da-43d8-9269-bb5523975e5a)
+
+Mount the EuroHiker module in your EuroRack setup or desktop case and throw the EuroHiker's toggle switch:
 
 
 
