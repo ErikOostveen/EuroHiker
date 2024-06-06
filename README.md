@@ -139,6 +139,10 @@ Solder the 2 headers and the 3 strips. Connect all 14 jumpers to the default pos
 It's time to link the two PCBs. Grab the PCB/Frontpanel from Part I and connect the 3 white wires (P21, P22, P23). These three wires control the rotary encoder's RGB LEDs - with the jumpers for P21, P22 & P23 in the default position that is. More about these jumpers later<br><br>
 ![pairing_PCBs_1](https://github.com/ErikOostveen/EuroHiker/assets/40121318/6becce26-05a0-4715-a0b1-b7b00d2972c1)
 
+### Step P
+Carefully push the 3 headers (the pins) into their opposite sockets. Make sure not to pierce any of the wires! - I managed to do this and only found out after powering up the module - luckily there was no electrical damage, but, of course, it could have damaged the board or, worse, the Unihiker module(!).<br><br>
+![pairing_careful](https://github.com/ErikOostveen/EuroHiker/assets/40121318/355feb8c-9664-4e2e-87d9-b8bf39be21ba)
+
 
 
 
