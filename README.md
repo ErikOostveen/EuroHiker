@@ -154,7 +154,7 @@ Mount the EuroHiker module into your EuroRack setup or desktop case and throw th
 Notice that the two Yellow MIDI IN/OUT LEDs blink for a second and then switch off. The Power LED switches ON and on a newly built module, the CV OUT LED switches ON also. We will go through all ports, buttons and rotary encoder next including CV OUT.
 
 # Diving into the EuroHiker module
-We hve come a long way! Now, lets make sure that all is working as it should.
+We have come a long way building the module! Now, lets make sure that all is working as it should.
 
 
 
