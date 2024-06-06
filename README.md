@@ -24,6 +24,11 @@ The EuroHiker module, on the other hand, empowers you to navigate through folder
 The idea is to have the flexibility to explore numerous concepts, allowing you to test them before deciding whether to further develop them using another development board or to retain them with
 
 # Let's Assemble! - Part I - EuroHiker PCB 1 of 2
+[PCB Link]([https://www.google.com](https://github.com/ErikOostveen/EuroHiker/tree/main/2%20-%20PCB_1_of_2__UniHiker_Board_and_FrontPanel_Components))
+
+
+
+
 The first part, of two, in assembling the EuroHiker module, is to gather all required components. I had the PCB, which houses the front panel's components, partially populated becasue I had some of the parts in stock. See overview below:
 
 ![pcb_1_overview](https://github.com/ErikOostveen/EuroHiker/assets/40121318/3e42fe15-b6ab-46be-93e7-86d1de6bcb39)
@@ -162,7 +167,9 @@ We have come a long way building the module! Now, lets make sure that all is wor
 In step I6, we found out about the UniHiker's WiFi IP address. If you lost that info or you suspect that the IP address may have changed, then the following will help you find its IP address:<br>
 1. Long press the screen
 2. Navigate to "4-Network Info"
-3. On the screen that follows, "Wireless: xxx.xxx.xxx.xxx" tells you the UniHiker's IP address (or EuroHike rather)
+3. On the screen that follows, "Wireless: xxx.xxx.xxx.xxx" tells you the UniHiker's IP address (or EuroHiker rather)
+
+
 
 
 
