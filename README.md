@@ -25,9 +25,6 @@ The idea is to have the flexibility to explore numerous concepts, allowing you t
 
 # Let's Assemble! - Part I - EuroHiker PCB 1 of 2
 [PCB Link](https://github.com/ErikOostveen/EuroHiker/tree/main/2%20-%20PCB_1_of_2__UniHiker_Board_and_FrontPanel_Components)
-
-
-
 The first part, of two, in assembling the EuroHiker module, is to gather all required components. I had the PCB, which houses the front panel's components, partially populated becasue I had some of the parts in stock. See overview below:
 
 ![pcb_1_overview](https://github.com/ErikOostveen/EuroHiker/assets/40121318/3e42fe15-b6ab-46be-93e7-86d1de6bcb39)
@@ -122,6 +119,7 @@ Finally, connect both USB patches. Make sure to, carefully, tuck the wires away.
 Cool!, you completed the first part to building the EuroHiker module!
 
 # Let's Assemble! - Part II - EuroHiker PCB 2 of 2
+[PCB Link](https://github.com/ErikOostveen/EuroHiker/tree/main/4%20-%20PCB_2_of_2__Active_Components_and_Outboard_Connectivity)
 ### Step M
 The 2nd PCB is super easy to build. Lets summarise the components (see image further below)<br>
 M1: Partially populated PCB. In fact, this is simply a one-side-only populated PCB; it's quite a bit cheaper this way than having both sides populated.<br> 
