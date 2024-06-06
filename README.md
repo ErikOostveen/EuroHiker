@@ -151,7 +151,8 @@ Connect the EuroRack power cable from your EuroRack power supply to the EuroHike
 Mount the EuroHiker module into your EuroRack setup or desktop case and throw the EuroHiker's toggle switch. The YouTube video below shows the bootup of the EuroHiker module:<br><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zgOlJGRqT2I" target="_blank"><img src="http://img.youtube.com/vi/zgOlJGRqT2I/0.jpg" width="400" border="1" /></a>
 
-Notice that the two Yellow MIDI IN/OUT LEDs blink for a second and then switch off. The Power LED switches ON and on a newly built module, the CV OUT LED switches ON also. We will go through all ports, buttons and rotary encoder next including CV OUT.
+Notice that the two Yellow MIDI IN/OUT LEDs blink for a second and then switch off. The Power LED switches ON and on a newly built module, the CV OUT LED switches ON also. We will go through all ports, buttons and rotary encoder next including CV OUT.<br><br>
+For now, long-press the screen and the menu should appear. Tap the screen, navigate around, to make sure that the touch screen works fine.
 
 # Diving into the EuroHiker module
 We have come a long way building the module! Now, lets make sure that all is working as it should.
