@@ -24,8 +24,7 @@ The EuroHiker module, on the other hand, empowers you to navigate through folder
 The idea is to have the flexibility to explore numerous concepts, allowing you to test them before deciding whether to further develop them using another development board or to retain them with
 
 # Let's Assemble! - Part I - EuroHiker PCB 1 of 2
-[PCB Link]([https://www.google.com](https://github.com/ErikOostveen/EuroHiker/tree/main/2%20-%20PCB_1_of_2__UniHiker_Board_and_FrontPanel_Components))
-
+[PCB Link](https://github.com/ErikOostveen/EuroHiker/tree/main/2%20-%20PCB_1_of_2__UniHiker_Board_and_FrontPanel_Components)
 
 
 
