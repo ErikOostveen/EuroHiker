@@ -159,14 +159,16 @@ For now, long-press the screen and the menu should appear. Tap the screen, navig
 # Diving into the EuroHiker module
 We have come a long way building the module! Now, lets make sure that all is working as it should.
 
-### Connectivity
+### IP Address of the EuroHiker module
 
 In step I6, we found out about the UniHiker's WiFi IP address. If you lost that info or you suspect that the IP address may have changed, then the following will help you find its IP address:<br>
 1. Long press the screen
 2. Navigate to "4-Network Info"
 3. On the screen that follows, "Wireless: xxx.xxx.xxx.xxx" tells you the UniHiker's IP address (or EuroHiker rather)
 
+### Remote Login (SSH)
 
+[Download PuTTY](https://www.putty.org/) - a free SSH and telnet client for Windows.
 
 
 
