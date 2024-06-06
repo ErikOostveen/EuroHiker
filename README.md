@@ -148,7 +148,8 @@ It's time to power up the module. Make sure the EuroHiker's toggle switch is set
 Connect the EuroRack power cable from your EuroRack power supply to the EuroHiker module:<br><br>
 ![connect_power_cable](https://github.com/ErikOostveen/EuroHiker/assets/40121318/bb6dccaf-81da-43d8-9269-bb5523975e5a)
 
-Mount the EuroHiker module in your EuroRack setup or desktop case and throw the EuroHiker's toggle switch:
+Mount the EuroHiker module into your EuroRack setup or desktop case and throw the EuroHiker's toggle switch:
+<iframe width="338" height="602" src="https://www.youtube.com/embed/zgOlJGRqT2I" title="EuroHiker Booting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
