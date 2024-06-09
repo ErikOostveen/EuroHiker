@@ -156,7 +156,7 @@ Mount the EuroHiker module into your EuroRack setup or desktop case and throw th
 Notice that the two Yellow MIDI IN/OUT LEDs blink for a second and then switch off. The Power LED switches ON and on a newly built module, the CV OUT LED switches ON also. We will go through all ports, buttons and rotary encoder next including CV OUT.<br><br>
 For now, long-press the screen and the menu should appear. Tap the screen, navigate around, to make sure that the touch screen works fine.
 
-# Diving into the EuroHiker module
+# Diving into the EuroHiker module | Setup
 We have come a long way building the module! Now, lets make sure that all is working as it should.
 
 ### EuroHiker software
@@ -231,9 +231,12 @@ Just so you know where to find the example files:
    
 This <strong>demo/</strong> directory accessible through the User Interface is the EuroHiker's <strong>/opt/unihiker/examples</strong> directory. It's the root directory you will go to time after time to work on your projects!
 
+# Diving into the EuroHiker module | Testing
+Now, we will walk through all Ports, LEDs the Rotary Encoder and Buttons.
 
+Before we get started, please remember that the [UniHiker website](https://www.unihiker.com/) is your goto place to find out more about the EuroHiker's UniHiker board.
 
-
+### Insta
 
 
 
