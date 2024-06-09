@@ -168,7 +168,10 @@ In step I6, we found out about the UniHiker's WiFi IP address. If you lost that 
 
 ### Remote Login (SSH)
 
-[Download PuTTY](https://www.putty.org/) - a free SSH and telnet client for Windows.
+If you don't already have these remote login tools, please;
+[Download PuTTY](https://www.putty.org/) - a free SSH and telnet client for Windows and ...<br>
+[Download WinSCP](https://winscp.net/eng/index.php) - a free SFTP client and FTP client for Windows<br><br>
+
 
 
 
