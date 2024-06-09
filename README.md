@@ -159,6 +159,13 @@ For now, long-press the screen and the menu should appear. Tap the screen, navig
 # Diving into the EuroHiker module
 We have come a long way building the module! Now, lets make sure that all is working as it should.
 
+### EuroHiker software
+
+[Go to the STEAM Modular Google Drive](https://drive.google.com/drive/folders/14qjXZDC-lNFwKs0wiuWyef0XtvS9_sYN?usp=sharing)
+
+Download this EuroHiker archive
+
+
 ### IP Address of the EuroHiker module
 
 In step I6, we found out about the UniHiker's WiFi IP address. If you lost that info or you suspect that the IP address may have changed, then the following will help you find its IP address:<br>
@@ -170,11 +177,20 @@ In step I6, we found out about the UniHiker's WiFi IP address. If you lost that 
 
 If you don't already have these remote login tools, then please;<br>
 [Download PuTTY](https://www.putty.org/) - a free SSH and telnet client for Windows and ...<br>
-[Download WinSCP](https://winscp.net/eng/index.php) - a free SFTP client and FTP client for Windows<br><br>
+[Download WinSCP](https://winscp.net/eng/index.php) - a free SFTP client and FTP client for Windows<br>
 
-Login to the EuroHiker. The default username/Password:<br>
-Username: <strong>root</strong>
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
+
+Use WinSCP, or similar software, to SFTP into the EuroHiker.
+The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+
+
+
 
 
 
