@@ -317,8 +317,36 @@ python buzzer.py
 # Press Ctrl+z to stop the program
 ```
 
+### Microphone
 
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
 
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/MIC
+python mic.py
+# You should see "Ambient volume = .." in the terminal window
+# Make some loud noises - this should change the volume values shown
+# Press Ctrl+z to stop the program
+```
+
+### Light Sensor
+
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/LIGHTSENSOR
+python lightSensor.py
+# You should see "Ambient light intensity: .." in the terminal window
+# Cover the EuroHiker's right slit - this should change the light intensity values shown
+# Shine your phone's torch into this slit and see how high the values become!
+# Press Ctrl+z to stop the program
+```
 
 
 
