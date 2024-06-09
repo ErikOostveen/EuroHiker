@@ -189,6 +189,8 @@ Password: <strong>dfrobot</strong>
 Enter
 ```
 cd /opt/unihiker/examples
+rm -rf *
+cd ..
 ```
 
 Use WinSCP, or similar software, to SFTP into the EuroHiker.
@@ -196,6 +198,10 @@ The default username/Password:<br>
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
+Copy the archive file you download earlier into the following directory:
+```
+/opt/unihiker
+```
 ### Install software to get you started
 
 
