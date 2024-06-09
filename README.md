@@ -163,9 +163,11 @@ We have come a long way building the module! Now, lets make sure that all is wor
 
 [Go to the STEAM Modular Google Drive](https://drive.google.com/drive/folders/14qjXZDC-lNFwKs0wiuWyef0XtvS9_sYN?usp=sharing)
 
-Go to the <strong>EuroHiker</strong> directory and download the EuroHiker archive called <strong>EuroHiker_</strong>Month<strong>_</strong>Day<strong>_</strong>Year<strong>.tar</strong>
-
-Save it somewhere on your computer: we will revisit this arhive later.
+Go to the <strong>EuroHiker</strong> directory and download the EuroHiker archive called:
+```
+EuroHiker_<Month>_<Day>_<Year>.tar
+```
+Save it somewhere on your computer - we will revisit this arhive later.
 
 ### IP Address of the EuroHiker module
 
@@ -174,7 +176,7 @@ In step I6, we found out about the UniHiker's WiFi IP address. If you lost that 
 2. Navigate to "4-Network Info"
 3. On the screen that follows, "Wireless: xxx.xxx.xxx.xxx" tells you the UniHiker's IP address (or EuroHiker rather)
 
-### Remote Login (SSH)
+### Remote Login (SSH & SFTP)
 
 If you don't already have these remote login tools, then please;<br>
 [Download PuTTY](https://www.putty.org/) - a free SSH and telnet client for Windows and ...<br>
@@ -184,10 +186,17 @@ Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
+Enter
+```
+cd /opt/unihiker
+```
+
 Use WinSCP, or similar software, to SFTP into the EuroHiker.
 The default username/Password:<br>
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
+
+### Install software to get you started
 
 
 
