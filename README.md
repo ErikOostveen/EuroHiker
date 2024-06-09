@@ -186,7 +186,7 @@ Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
-From the command prompt, enter
+From the command prompt, enter:
 ```
 cd /opt/unihiker/examples
 rm -rf *
@@ -244,7 +244,7 @@ Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
-From the command prompt, enter
+From the command prompt, enter:
 ```
 # TEST 1 (Individual LEDs ON/OFF):
 cd /opt/unihiker/examples/100-EuroHiker/RGB_LEDs
@@ -268,7 +268,7 @@ Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
-From the command prompt, enter
+From the command prompt, enter:
 ```
 # TEST 1 (Turn):
 cd /opt/unihiker/examples/100-EuroHiker/ROTARYENCODER
@@ -283,6 +283,7 @@ python encoderTest.py
 # Press Ctrl+z to stop the program
 ```
 
+### Left & Right Buttons
 
 
 
