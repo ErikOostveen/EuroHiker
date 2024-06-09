@@ -227,8 +227,11 @@ Just so you know where to find the example files:
 1. Long press the screen
 2. Navigate to "2-Run Programs"
 3. Navigate to "demo/"
+4. This is the root directory of all current and future projects
    
-This demo/ directory is essentially the EuroHiker's <strong>/opt/unihiker/examples</strong> directory
+This <strong>demo/</strong> directory accessible through the User Interface is the EuroHiker's <strong>/opt/unihiker/examples</strong> directory. It's the root directory you will go to time after time to work on your projects!
+
+
 
 
 
