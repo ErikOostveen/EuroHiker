@@ -249,13 +249,17 @@ From the command prompt, enter
 # TEST 1 (Individual LEDs ON/OFF):
 cd /opt/unihiker/examples/100-EuroHiker/RGB_LEDs
 python  test_RED_GREEN_BLUE_LEDs.py
-# This should make the Red, Green and Blue LEDs of the Rotary Encoder flash
+# This should make the Red, Green and Blue LEDs inside the Rotary Encoder flash
 # Press Ctrl+x or Ctrl+z to stop the program
-# Note that after stopping this test program, a LED may still be on - this is fine. When you start programming yourself, you can make sure all LEDs are off when quiting a program.
+# Note that after stopping this test program, a LED may still be on - this is fine.
+# When you start programming yourself, you can make sure all LEDs are off when quiting a program.
 
 # TEST 2 (Multiple LEDs | PWM) 
 python PWM_P21_Red__P22_Green__P23_Blue.py
 # Here we are "mixing" Red, Green and Blue - at different PWM rates or LED brightness so we get different colours
+# Press Ctrl+x or Ctrl+z to stop the program
+# Note that after stopping this test program, a LED may still be on - this is fine.
+# When you start programming yourself, you can make sure all LEDs are off when quiting a program.
 ```
 
 
