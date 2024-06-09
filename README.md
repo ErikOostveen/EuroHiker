@@ -273,8 +273,10 @@ From the command prompt, enter
 # TEST 1 (Turn):
 cd /opt/unihiker/examples/100-EuroHiker/ROTARYENCODER
 python encoderTest.py
-# Turn the Rotary Encoder's knob Clockwise. You should see "Counter: 1 ... 2 ... 3 etc." in your SSH terminal
-# Turn the Rotary Encoder's knob Counter-Clockwise. You should see, at some point, "Counter: -1 ... -2 ... -3 etc." in your SSH terminal
+# Turn the Rotary Encoder's knob Clockwise.
+# You should see "Counter: 1 ... 2 ... 3 etc." in your SSH terminal
+# Turn the Rotary Encoder's knob Counter-Clockwise.
+# You should see, at some point, "Counter: -1 ... -2 ... -3 etc." in your SSH terminal
 # Press the Rotary Encoder know. You should see "Pressed" (many times)
 # Press Ctrl+z to stop the program
 ```
