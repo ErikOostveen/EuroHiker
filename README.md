@@ -300,7 +300,30 @@ python test_push_buttons.py
 # TEST RIGHT
 # Press the RIGHT button. 
 # You should see "Right Push Button Pressed" in your SSH terminal (many times)
+# Press Ctrl+z to stop the program
 ```
+
+### Buzzer
+
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/BUZZER
+python buzzer.py
+# You should hear the EuroHiker's buzzer play a melody and stop
+# Press Ctrl+z to stop the program
+```
+
+
+
+
+
+
+
+
 
 
 
