@@ -207,21 +207,29 @@ Copy the archive file you download earlier into the following directory:
 Go back to the command prompt, enter:
 ```
 pwd
-# This should return /opt/unihiker
+# This should return: /opt/unihiker
 # if not, enter: cd /opt/unihiker
 
 ls -l *.tar
 # This should return the .tar file you uploaded to the EuroHiker module
-# In the example below, replace "EuroHiker_June_6th_2024.tar" for filename of your .tar
+# In the example below, replace "EuroHiker_June_6th_2024.tar" for the filename of your .tar file
 
 tar -xvf EuroHiker_June_6th_2024.tar
 # In the output that follows, you can see that this archive populates the examples directory
-# It also replaces the EuroHiker's UniHiker splash screen for the EuroHiker splash screen
+# It also replaces the EuroHiker's default UniHiker splash screen for the STEAM Modular splash screen
 # Lets reboot
 
 sudo reboot now
 ```
-Your EuroHiker now looks more "Eurohiker" after boot up
+Your EuroHiker now looks more "Eurohiker" after boot up.
+
+Just so you know where to find the example files:
+1. Long press the screen
+2. Navigate to "2-Run Programs"
+3. Navigate to "demo/"
+   
+This demo/ directory is essentially the EuroHiker's <strong>/opt/unihiker/examples</strong> directory
+
 
 
 
