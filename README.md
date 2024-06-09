@@ -279,7 +279,7 @@ python encoderTest.py
 # You should see, at some point, "Counter: -1 ... -2 ... -3 etc." in your SSH terminal
 
 # TEST 2 (Press):
-# Press the Rotary Encoder know. You should see "Pressed" (many times)
+# Press the Rotary Encoder's knob. You should see "Pressed" (many times)
 # Press Ctrl+z to stop the program
 ```
 
