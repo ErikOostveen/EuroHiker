@@ -283,10 +283,24 @@ python encoderTest.py
 # Press Ctrl+z to stop the program
 ```
 
-### Left & Right Buttons
+### Left & Right Push Buttons
 
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
 
+From the command prompt, enter:
+```
+# TEST LEFT
+cd /opt/unihiker/examples/100-EuroHiker/PUSHBUTTONS
+python test_push_buttons.py
+# Press the LEFT button. 
+# You should see "Left Push Button Pressed" in your SSH terminal (many times)
 
+# TEST RIGHT
+# Press the RIGHT button. 
+# You should see "Right Push Button Pressed" in your SSH terminal (many times)
+```
 
 
 
