@@ -163,7 +163,7 @@ We have come a long way building the module! Now, lets make sure that all is wor
 
 [Go to the STEAM Modular Google Drive](https://drive.google.com/drive/folders/14qjXZDC-lNFwKs0wiuWyef0XtvS9_sYN?usp=sharing)
 
-Download this EuroHiker archive
+Go to the <strong>SteamModular</strong> directory and download the EuroHiker archive called "EuroHiker_<Month>_<Day>_Year>.tar"
 
 
 ### IP Address of the EuroHiker module
