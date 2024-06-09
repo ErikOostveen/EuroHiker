@@ -262,5 +262,27 @@ python PWM_P21_Red__P22_Green__P23_Blue.py
 # When you start programming yourself, you can make sure all LEDs are off when quiting a program.
 ```
 
+### Rotary Encoder (Turn & Press)
+
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+From the command prompt, enter
+```
+# TEST 1 (Turn):
+cd /opt/unihiker/examples/100-EuroHiker/ROTARYENCODER
+python encoderTest.py
+# Turn the Rotary Encoder's knob Clockwise. You should see "Counter: 1 ... 2 ... 3 etc." in your SSH terminal
+# Turn the Rotary Encoder's knob Counter-Clockwise. You should see, at some point, "Counter: -1 ... -2 ... -3 etc." in your SSH terminal
+# Press the Rotary Encoder know. You should see "Pressed" (many times)
+# Press Ctrl+z to stop the program
+```
+
+
+
+
+
+
 
 
