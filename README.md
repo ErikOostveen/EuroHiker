@@ -186,7 +186,7 @@ Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
-Enter
+From the command prompt, enter
 ```
 cd /opt/unihiker/examples
 rm -rf *
@@ -204,12 +204,24 @@ Copy the archive file you download earlier into the following directory:
 ```
 ### Install software to get you started
 
+Go back to the command prompt, enter:
+```
+pwd
+# This should return /opt/unihiker
+# if not, enter: cd /opt/unihiker
 
+ls -l *.tar
+# This should return the .tar file you uploaded to the EuroHiker module
+# In the example below, replace "EuroHiker_June_6th_2024.tar" for filename of your .tar
 
+tar -xvf EuroHiker_June_6th_2024.tar
+# In the output that follows, you can see that this archive populates the examples directory
+# It also replaces the EuroHiker's UniHiker splash screen for the EuroHiker splash screen
+# Lets reboot
 
-
-
-
+sudo reboot now
+```
+Your EuroHiker now looks more "Eurohiker" after boot up
 
 
 
