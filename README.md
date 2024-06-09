@@ -172,6 +172,9 @@ If you don't already have these remote login tools, then please;<br>
 [Download PuTTY](https://www.putty.org/) - a free SSH and telnet client for Windows and ...<br>
 [Download WinSCP](https://winscp.net/eng/index.php) - a free SFTP client and FTP client for Windows<br><br>
 
+Login to the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong>
+Password: <strong>dfrobot</strong>
 
 
 
