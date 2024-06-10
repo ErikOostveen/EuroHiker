@@ -348,7 +348,7 @@ python lightSensor.py
 # Press Ctrl+z to stop the program
 ```
 
-### MIDI IN/OUT
+### MIDI IN/OUT | IN
 
 Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
 Username: <strong>root</strong><br>
@@ -360,10 +360,12 @@ Set the keyboard to MIDI Channel 1.
 From the command prompt, enter:
 ```
 # TEST - Receiving MIDI Data
-# Install the py-midi library (this is a one-off)
+
+# Install the py-midi library IF YOU HAVEN'T DONE THIS ALREADY (this is a one-off)
 # Reference: https://github.com/edthrn/py-midi
 pip3 install py-midi
 # Install will take a while. You may see a warning message - but that's ok. You can ignore it.
+
 cd /opt/unihiker/examples/100-EuroHiker/MIDI
 python midiLib_RX.py
 # Press a few keys. In your terminal window, you should see the MIDI note number and note velocity. 
@@ -372,7 +374,31 @@ python midiLib_RX.py
 # Press Ctrl+z to stop the program
 ```
 
+### MIDI IN/OUT | OUT
 
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+Connect the MIDI IN of a MIDI instrument to the MIDI OUT of the EuroHiker module (Type-A MIDI).<br>
+Set the instrument to MIDI Channel 1. Select a patch (like piano for example).
+
+From the command prompt, enter:
+```
+# TEST - Transmitting MIDI Data
+
+# Install the py-midi library IF YOU HAVEN'T DONE THIS ALREADY (this is a one-off)
+# Reference: https://github.com/edthrn/py-midi
+pip3 install py-midi
+# Install will take a while. You may see a warning message - but that's ok. You can ignore it.
+
+cd /opt/unihiker/examples/100-EuroHiker/MIDI
+python midiLib_TX.py
+# Note the MIDI OUT led blinking.
+# For this test, the .py program transmits a NOTE ON message (first blink)
+# then it transmits a NOTE OFF message (second blink) and so on
+# Press Ctrl+z to stop the program
+```
 
 
 
