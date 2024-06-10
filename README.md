@@ -440,6 +440,27 @@ python Gate_Out_High_Low.py
 # Press Ctrl+z to stop the program
 ```
 
+### CV IN/OUT | IN
+
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+Connect the CV OUT of your analog instrument (LFO) to the CV IN of the EuroHiker Module.<br>
+The brightness of the CV IN LED of the EuroHiker module should now run in sync with the CV OUT LED of your instrument. Set the LFO rate nice and slow - so we can read the changes better.<br>
+Note that the brightness of LEDs can come across as a hard ON/OFF, but from the test script we'll see that the EuroHiker does measure a wide input range.
+
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/CV_IN
+python CV_In_TEST.py
+# The measured CV IN level is now shown in your teminal window as "P1 = xxxx"
+# The value runs from 0 to 4095 (12-bit ADC)
+# Note that the value is hardly ever exact 0 - this is becasue of the ADC's noise floor
+# Press Ctrl+z to stop the program
+```
+
+
 
 
 
