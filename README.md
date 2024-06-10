@@ -476,16 +476,32 @@ From the command prompt, enter:
 cd /opt/unihiker/examples/100-EuroHiker/CV_OUT
 python 1_i2c_scan.py
 # This make take a little while.
-# You should see a bunch of lines, but what matters is that one of those lines reads: "Address of I2C device = 0x61"
-# The LED may also have switched off (does not always happen - but it's ok). Lets carry on.
-# You may have to retry this step until you see the address mentioned
+# You should see a bunch of lines. What matters is that one of those lines reads: "Address of I2C device = 0x61"
+# The LED may also have switched off. It does not always happen - but it's ok - just carry on.
+# You may have to retry this step until you see the address mentioned.
+# It's worth pointing out that the MCP4725 comes in different flavors - address-wise that is.
+# If this step returns a different address, you will need to edit the .py files mentioned in the next steps
+# and replace 0x61 for the address you obtained. 
 
 python 3_i2c_Set_DAC_Output_Level_at_Startup.py
 # Wait for the "All right. PinPong go..." message to appear
 # Press Ctrl+ z
-# This should now have set CV OUT to zero at power-up
-# Switch the EuroHiker module OFF and ON again
+# This should now have set CV OUT to zero at power-up.
+# Switch the EuroHiker module OFF and ON again.
 # The CV OUT LED should now be OFF at power up - and every power up from now on (unless you change it back of course)
+
+# Log in again
+cd /opt/unihiker/examples/100-EuroHiker/CV_OUT
+python CV_Out_Random_Levels_16_Steps__Encoder_is_Rate.py
+# Watch the CV OUT LED - its brightness changes through a 16 steps loop.
+# Press the Rotary Encoder until you see another set of 16 values.
+# Now it runs through these 16 steps of Brightness - and, of course, it outputs
+# a control voltage level represented by the LED's brightness driving your Analog gear!
+```
+
+
+
+
 
 
 
