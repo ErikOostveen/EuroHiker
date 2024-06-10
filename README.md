@@ -497,4 +497,7 @@ python CV_Out_Random_Levels_16_Steps__Encoder_is_Rate.py
 # Press the Rotary Encoder until you see another set of 16 values.
 # Now it runs through these 16 steps of Brightness - and, of course, it outputs
 # a control voltage level represented by the LED's brightness driving your Analog gear!
+# Press Ctrl+z to stop the program
+# The CV OUT LED will remain at the level before stopping the program until you restart the program
+# or reboot the EuroHiker module.
 ```
