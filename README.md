@@ -400,6 +400,27 @@ python midiLib_TX.py
 # Press Ctrl+z to stop the program
 ```
 
+### GATE IN/OUT | IN
+
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+Connect the Gate OUT of your analog instrument to the Gate IN of the EuroHiker Module.<br>
+The Gate IN LED of the EuroHiker module should now blink in sync with the Gate OUT LED of your instrument.<br>
+
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/GATE_IN
+python digital_in.py
+# When the EuroHiker's Gate IN LED is ON, your terminal screen will display a constant stream of "1"
+# When the EuroHiker's Gate IN LED is OFF, your terminal screen will display a constant stream of "0"
+# Change the Gate's Pulse Rate so that you can see the changes from '0' to '1' and vice versa
+# Note that the test script samples the Gate IN every 10ms or so
+# this is so you can follow the 0/1/0 changes with your eyes! (the actual sample rate is a lot higher)
+# Press Ctrl+z to stop the program
+```
+
 
 
 
