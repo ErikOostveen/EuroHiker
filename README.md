@@ -466,7 +466,7 @@ Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/
 Username: <strong>root</strong><br>
 Password: <strong>dfrobot</strong>
 
-Connect the CV IN of your analog instrument (Oscillator's CV for example) to the CV OUT of the EuroHiker Module.<br><br>
+Connect the CV IN of your analog instrument (Oscillator's CV for example) to the CV OUT of the EuroHiker Module.<br>
 
 CV OUT is a little bit special, because the 12-bit Digital-to-Analog Converter (DAC), a MCP4725, has an integrated EEPROM/Memory, which allows to set a boot-up output level.<br><br>
 When you finished the built of the EuroHiker module, the CV OUT LED has been ON on every power up - this is simply the factory default. We can, and will, change this next. 
@@ -477,7 +477,7 @@ cd /opt/unihiker/examples/100-EuroHiker/CV_OUT
 python 1_i2c_scan.py
 # This make take a little while.
 # You should see a bunch of lines. What matters is that one of those lines reads: "Address of I2C device = 0x61"
-# The LED may also have switched off. It does not always happen - but it's ok - just carry on.
+# The CV OUT LED may also have switched off. It does not always happen - but it's ok - just carry on.
 # You may have to retry this step until you see the address mentioned.
 # It's worth pointing out that the MCP4725 comes in different flavors - address-wise that is.
 # If this step returns a different address, you will need to edit the .py files mentioned in the next steps
@@ -498,17 +498,3 @@ python CV_Out_Random_Levels_16_Steps__Encoder_is_Rate.py
 # Now it runs through these 16 steps of Brightness - and, of course, it outputs
 # a control voltage level represented by the LED's brightness driving your Analog gear!
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
