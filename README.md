@@ -421,7 +421,24 @@ python digital_in.py
 # Press Ctrl+z to stop the program
 ```
 
+### GATE IN/OUT | OUT
 
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+Connect the Gate OUT of the EuroHiker module to your analog instrument's Gate IN.<br>
+You could have it trigger an Envelope/ADSR for example.<br>
+
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/GATE_OUT
+python Gate_Out_High_Low.py
+# Watch your terminal window; it should read "low (0V)" & "High (5V)" repeatedly
+# Also, look at the EuroHiker's Gate OUT LED - this should blink ON and OFF
+# As the Gate OUT switches between High and Low, so should your gear react accordingly
+# Press Ctrl+z to stop the program
+```
 
 
 
