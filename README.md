@@ -460,6 +460,33 @@ python CV_In_TEST.py
 # Press Ctrl+z to stop the program
 ```
 
+### CV IN/OUT | OUT
+
+Use PuTTY, or similar software, to SSH into the EuroHiker. The default username/Password:<br>
+Username: <strong>root</strong><br>
+Password: <strong>dfrobot</strong>
+
+Connect the CV IN of your analog instrument (Oscillator's CV for example) to the CV OUT of the EuroHiker Module.<br><br>
+
+CV OUT is a little bit special, because the 12-bit Digital-to-Analog Converter (DAC), a MCP4725, has an integrated EEPROM/Memory, which allows to set a boot-up output level.<br><br>
+When you finished the built of the EuroHiker module, the CV OUT LED has been ON on every power up - this is simply the factory default. We can, and will, change this next. 
+
+From the command prompt, enter:
+```
+cd /opt/unihiker/examples/100-EuroHiker/CV_OUT
+python 1_i2c_scan.py
+# This make take a little while.
+# You should see a bunch of lines, but what matters is that one of those lines reads: "Address of I2C device = 0x61"
+# The LED may also have switched off (does not always happen - but it's ok). Lets carry on.
+# You may have to retry this step until you see the address mentioned
+
+python 3_i2c_Set_DAC_Output_Level_at_Startup.py
+# Wait for the "All right. PinPong go..." message to appear
+# Press Ctrl+ z
+# This should now have set CV OUT to zero at power-up
+# Switch the EuroHiker module OFF and ON again
+# The CV OUT LED should now be OFF at power up - and every power up from now on (unless you change it back of course)
+
 
 
 
