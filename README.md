@@ -10,7 +10,7 @@ The UniHiker board comes standard with WiFi/Bluetooth, Light Sensor, Microphone,
 
 The EuroHiker module adds to this already impressive list of features MIDI IN/OUT, Gate IN/OUT, Control Voltage IN/OUT, two push buttons, a Rotary Encoder with built in Red/Green/Blue LEDs plus another push button. The module also has an ON/OFF switch - and last but not least, offers an expansion interface (26pins) for you to experiment and interact with the EuroHiker module through your own desgins!
 
-Download the [EuroHiker Visual Summary (PDF | 19Mb) here](https://github.com/ErikOostveen/EuroHiker/files/15461125/EuroHiker_OnePager.pdf)
+Download the [EuroHiker Visual Summary (PDF | 19Mb) here](https://github.com/user-attachments/files/15792319/EuroHiker_OnePager.pdf)
 
 Module Specs
 <br>• 3U/20HP = approx. H128mm x W101mm
