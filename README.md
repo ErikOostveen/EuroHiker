@@ -503,3 +503,12 @@ python CV_Out_Random_Levels_16_Steps__Encoder_is_Rate.py
 # The CV OUT LED will remain at the level before stopping the program until you restart the program
 # or reboot the EuroHiker module.
 ```
+
+# SuperCollider (audio synthesis)
+The EuroHiker's UniHiker board doesn't have Audio In/Out, but with an USB-A Audio Adapter it will be able to produce sound.<br><br>
+I intend to redesign the PCBs so that the EuroHiker module either contains the audio adapter itself, or it interfaces with a separate audio module.<br><br>
+I recommend you install the SuperCollider open source software. It enables the creation of wonderful sounds!<br><br>
+Please visit my [step-by-step instructions](https://github.com/ErikOostveen/SuperColliderOnUniHiker) here on GitHub.
+<hr>
+
+
