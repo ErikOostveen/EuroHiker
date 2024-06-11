@@ -1,3 +1,11 @@
+### Index
+EuroHiker<br>
+Let's Assemble! - Part I - EuroHiker PCB 1 of 2<br>
+Let's Assemble! - Part II - EuroHiker PCB 2 of 2<br>
+Diving into the EuroHiker module | Setup<br>
+Diving into the EuroHiker module | Testing<br>
+<a href="#supercollider">SuperCollider (audio synthesis)</a>
+
 # EuroHiker
 
 The EuroHiker module is designed to provide a programmable platform capable of executing various functions, fitting seamlessly into the world of EuroRack where modules are typically fine-tuned to excel in their designated tasks.
@@ -503,7 +511,7 @@ python CV_Out_Random_Levels_16_Steps__Encoder_is_Rate.py
 # The CV OUT LED will remain at the level before stopping the program until you restart the program
 # or reboot the EuroHiker module.
 ```
-
+<a id="supercollider"></a>
 # SuperCollider (audio synthesis)
 The EuroHiker's UniHiker board doesn't have Audio In/Out, but with an USB-A Audio Adapter it will be able to produce sound.<br><br>
 I intend to redesign the PCBs so that the EuroHiker module either contains the audio adapter itself, or it interfaces with a separate audio module.<br><br>
