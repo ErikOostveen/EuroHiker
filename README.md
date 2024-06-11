@@ -1,10 +1,11 @@
 ### Index
-EuroHiker<br>
-Let's Assemble! - Part I - EuroHiker PCB 1 of 2<br>
-Let's Assemble! - Part II - EuroHiker PCB 2 of 2<br>
-Diving into the EuroHiker module | Setup<br>
-Diving into the EuroHiker module | Testing<br>
-<a href="#supercollider">SuperCollider (audio synthesis)</a>
+
+<a href="#">EuroHiker</a><br>
+<a href="#">Let's Assemble! - Part I - EuroHiker PCB 1 of 2</a><br>
+<a href="#">Let's Assemble! - Part II - EuroHiker PCB 2 of 2</a><br>
+<a href="#">Diving into the EuroHiker module | Setup</a><br>
+<a href="#">Diving into the EuroHiker module | Testing</a><br>
+<a href="#supercollider">SuperCollider (audio synthesis)</a><br>
 
 # EuroHiker
 
