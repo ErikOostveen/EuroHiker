@@ -1,12 +1,12 @@
 ### Index
 
-<a href="#">EuroHiker</a><br>
-<a href="#">Let's Assemble! - Part I - EuroHiker PCB 1 of 2</a><br>
-<a href="#">Let's Assemble! - Part II - EuroHiker PCB 2 of 2</a><br>
-<a href="#">Diving into the EuroHiker module | Setup</a><br>
-<a href="#">Diving into the EuroHiker module | Testing</a><br>
+<a href="#eurohiker">EuroHiker</a><br>
+<a href="#assemble1">Let's Assemble! - Part I - EuroHiker PCB 1 of 2</a><br>
+<a href="#assemble2">Let's Assemble! - Part II - EuroHiker PCB 2 of 2</a><br>
+<a href="#divinginto1">Diving into the EuroHiker module | Setup</a><br>
+<a href="#divinginto2">Diving into the EuroHiker module | Testing</a><br>
 <a href="#supercollider">SuperCollider (audio synthesis)</a><br>
-
+<a id="eurohiker"></a>
 # EuroHiker
 
 The EuroHiker module is designed to provide a programmable platform capable of executing various functions, fitting seamlessly into the world of EuroRack where modules are typically fine-tuned to excel in their designated tasks.
@@ -33,7 +33,7 @@ The EuroHiker module is designed to provide a programmable platform capable of e
 The EuroHiker module, on the other hand, empowers you to navigate through folders containing Python programs, each leveraging the module's extensive feature set.
 
 The idea is to have the flexibility to explore numerous concepts, allowing you to test them before deciding whether to further develop them using another development board or to retain them with
-
+<a id="assemble1"></a>
 # Let's Assemble! - Part I - EuroHiker PCB 1 of 2
 [PCB Link](https://github.com/ErikOostveen/EuroHiker/tree/main/2%20-%20PCB_1_of_2__UniHiker_Board_and_FrontPanel_Components)<br>
 The first part, of two, in assembling the EuroHiker module, is to gather all required components. I had the PCB, which houses the front panel's components, partially populated becasue I had some of the parts in stock. See overview below:
@@ -128,7 +128,7 @@ J2: Back to the LEDs. Feed the LEDs through the holes and aim to get them flush 
 Finally, connect both USB patches. Make sure to, carefully, tuck the wires away.<br><br>
 ![connect_usbs](https://github.com/ErikOostveen/EuroHiker/assets/40121318/2e61942f-8241-4a64-8679-40bd48bb93db)<br>
 Cool!, you completed the first part to building the EuroHiker module!
-
+<a id="assemble2"></a>
 # Let's Assemble! - Part II - EuroHiker PCB 2 of 2
 [PCB Link](https://github.com/ErikOostveen/EuroHiker/tree/main/4%20-%20PCB_2_of_2__Active_Components_and_Outboard_Connectivity)
 ### Step M
@@ -166,7 +166,7 @@ Mount the EuroHiker module into your EuroRack setup or desktop case and throw th
 
 Notice that the two Yellow MIDI IN/OUT LEDs blink for a second and then switch off. The Power LED switches ON and on a newly built module, the CV OUT LED switches ON also. We will go through all ports, buttons and rotary encoder next including CV OUT.<br><br>
 For now, long-press the screen and the menu should appear. Tap the screen, navigate around, to make sure that the touch screen works fine.
-
+<a id="divinginto1"></a>
 # Diving into the EuroHiker module | Setup
 We have come a long way building the module! Now, lets make sure that all is working as it should.
 
@@ -241,7 +241,7 @@ Just so you know where to find the example files:
 4. This is the root directory of all current and future projects
    
 This <strong>demo/</strong> directory accessible through the User Interface is the EuroHiker's <strong>/opt/unihiker/examples</strong> directory. It's the root directory you will go to time after time to work on your projects!
-
+<a id="divinginto2"></a>
 # Diving into the EuroHiker module | Testing
 Now, we will walk through all Ports, LEDs the Rotary Encoder and Buttons.
 
