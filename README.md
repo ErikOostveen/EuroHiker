@@ -19,7 +19,7 @@ The EuroHiker module is based on the popular (Linux) Unihiker single board compu
 
 The UniHiker board comes standard with WiFi/Bluetooth, Light Sensor, Microphone, Accelerometer sensor, Gyroscope sensor, Buzzer, MicroSD card slot and Various I/O connectivity (PWM, ADC, I2C, UART, USB, SPI)
 
-The EuroHiker module adds to this already impressive list of features MIDI IN/OUT, Gate IN/OUT, Control Voltage IN/OUT, two push buttons, a Rotary Encoder with built in Red/Green/Blue LEDs plus another push button. The module also has an ON/OFF switch - and last but not least, offers an expansion interface (26pins) for you to experiment and interact with the EuroHiker module through your own desgins!
+The EuroHiker module adds to this already impressive list of features MIDI IN/OUT, Gate IN/OUT, Control Voltage IN/OUT, two push buttons, a Rotary Encoder with built in Red/Green/Blue LEDs plus another push button. The module also has an ON/OFF switch - and last but not least, offers an expansion interface (26pins) for you to experiment and interact with the EuroHiker module through your own designs!
 
 Download the [EuroHiker Visual Summary (PDF | 19Mb) here](https://github.com/user-attachments/files/15792319/EuroHiker_OnePager.pdf)
 
